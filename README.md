@@ -135,8 +135,9 @@ Returns the health status of the application.
   - **Content:**
     ```json
     {
-      "status": "UP",
-      "timestamp": "2023-05-23T12:34:56.789Z"
+      "status": "ok",
+      "pid": 12345,
+      "hostname": "your-hostname"
     }
     ```
 
