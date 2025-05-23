@@ -1,7 +1,7 @@
 # Express TypeScript Project
 
 <p align="center">
-  <img src="https://expressjs.com/images/express-facebook-share.png" width="320" alt="Express Logo" />
+  <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" width="320" alt="Express Logo" />
 </p>
 
 ## Overview
